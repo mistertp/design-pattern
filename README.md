@@ -1,4 +1,4 @@
-> **注意**：如果你想要阅读中文版`README`, 请点击 [这里](https://github.com/mistertp/design-pattern/README_ZH.md). 
+> **注意**：如果你想要阅读中文版`README`, 请点击 [这里](https://github.com/mistertp/design-pattern/blob/main/README_ZH.md). 
 
 # Design pattern
 
@@ -6,9 +6,9 @@ Design pattern in action. Code example using java.
 
 ## Index
 
-- [Creational patterns](#Creational patterns)
-- [Structural patterns](#Structural patterns)
-- [Behavioral patterns](#Behavioral patterns)
+- [Creational patterns](#creational patterns)
+- [Structural patterns](#structural patterns)
+- [Behavioral patterns](#behavioral patterns)
 
 ## Creational patterns
 
