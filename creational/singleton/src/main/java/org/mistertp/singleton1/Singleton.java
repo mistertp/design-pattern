@@ -1,4 +1,4 @@
-package org.mistertp.singleton;
+package org.mistertp.singleton1;
 
 /**
  * 经典单例模式（延迟实例化）
